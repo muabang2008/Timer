@@ -170,3 +170,4 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = TimerApp(root)
     root.mainloop()
+print("MIKEY RULES")
